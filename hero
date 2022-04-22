@@ -30,7 +30,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.tomave.talkor",
+		"package_name": "com.tom.heroguide",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
